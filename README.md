@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @remmyer
-- 👀 I’m interested in programming and arts, such as painting and drawing..
-- 🌱 I’m currently learning JavaScript, HTML and CSS
-- 💞️ I’m looking to collaborate on any small projects, mostly in front end
+- 👋 Hi, I’m Mohima
 - 📫 You can reach out to me on my Discord @remmyer
 
 <!---
