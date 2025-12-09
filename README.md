@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mohima
+- 📚 I study Computer Science (420.B0) at Dawson College
 - 📫 You can reach out to me on my Discord @remmyer
 
 <!---
